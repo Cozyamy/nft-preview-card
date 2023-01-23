@@ -23,12 +23,14 @@ Users are able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop-design](https://user-images.githubusercontent.com/75266766/214050330-589e9507-c413-408b-b512-de7d1a0bb6bf.jpg)
+
+![mobile-design](https://user-images.githubusercontent.com/75266766/214050390-7c0e106a-a87d-40ee-9a9b-ca7702d7c02c.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Cozyamy/nft-preview-card.git)
+- Live Site URL: [Add live site URL here](https://cozyamy.github.io/nft-preview-card/)
 
 ## My process
 
@@ -40,6 +42,6 @@ Users are able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://cozyamy.github.io/Cozy_Portfolio/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Cozyamy)
+- Twitter - [@yourusername](https://www.twitter.com/AmyyCozy)
